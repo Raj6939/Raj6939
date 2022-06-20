@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raj6939
-- 👀 I’m interested in Blockchain and protocol design.
-- 🌱 I’m currently learning vue.js
-- 💞️ I’m looking to collaborate on various opensource blockchain projects
+- 👀 I am a fullstack web developer and web3 Engineer.
+- 🌱 interested in Blockchain and protocol design.
+- 💞️ I’m looking to collaborate on various opensource blockchain projects.
 - 📫 You can reach out to me via following details :
 Email:- raj.v.patil108@gmail.com
 
