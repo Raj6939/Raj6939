@@ -2,7 +2,7 @@
 - 👀 I am a fullstack web developer and web3 Engineer.
 - 🌱 interested in Blockchain and protocol design.
 - 💞️ I’m looking to collaborate on various opensource blockchain projects.
-- 📫 You can reach out to me via following details :
+- 📫 You can reach out to me via :
 Email:- raj.v.patil108@gmail.com
 
 <!---
