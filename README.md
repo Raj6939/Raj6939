@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raj6939
-- 👀 I am a fullstack web developer and web3 Engineer.
+- 👀 I am a web developer.
 - 🌱 interested in Blockchain and protocol design.
 - 💞️ I’m looking to collaborate on various opensource blockchain projects.
 - 📫 You can reach out to me via :
