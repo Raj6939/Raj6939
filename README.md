@@ -2,7 +2,7 @@
 - 👀 I am a web developer and blockchain enthusiast.
 - 🔨 VueJS | ReactJS | Solidity | NodeJs | MongoDB | web3js | tokenomics | NFT | cryptography | web wallets.
 - 🌱 Currently working on SSI, DID,verifiable credentials, and ZKP. Building [hypersign.id](https://hypersign.id/) ecosystem (Decentralized identity infrastructure).
-- 💞️ I love to talk about Digital identity.
+- 💞️ I love to talk about digital identity, Self-Sovereign Identity (SSI), and Decentralized Identifiers (DIDs).
 - 📫 You can reach out to me via :
 Email:- raj.v.patil108@gmail.com
 
